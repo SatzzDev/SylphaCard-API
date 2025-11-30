@@ -1,4 +1,7 @@
 {
+  "files": [
+    "node_modules/sylphacard/fonts/**/*.ttf"
+  ],
   "dependencies": {
     "express": "latest",
     "fs": "latest",
